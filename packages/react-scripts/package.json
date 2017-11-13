@@ -1,8 +1,8 @@
 {
-  "name": "react-scripts",
-  "version": "1.0.17",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "name": "@ingenious-agency/react-scripts",
+  "version": "1.0.17-1",
+  "description": "Ingenious Configuration and scripts for Create React App.",
+  "repository": "ingsw-dev/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
