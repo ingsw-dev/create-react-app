@@ -13,3 +13,13 @@ You can use this scripts with the normal [create-react-app](https://www.npmjs.co
 ```bash
 $ create-react-app <app-name> --scripts-version @ingenious-agency/react-scripts
 ```
+
+## Development Guidelines
+
+### Versioning
+
+To keep the same versions of the original `create-react-app`, add a dash following with an incremental number at the end of the version number. Ex: `1.0.17-2` represent the version `1.0.17` of `create-react-app` and the version `2`of this fork.
+
+### Branches
+
+This repo keeps the current development in the `develop` branch and the stable code in the `stable` branch. Keeping the `master` branch in sync with `create-react-app`.
